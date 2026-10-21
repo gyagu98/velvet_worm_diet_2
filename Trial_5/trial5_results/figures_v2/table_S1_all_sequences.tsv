@@ -1,0 +1,70 @@
+sample	seq	fate	top_hit	top_hit_name	pident	aln_len	bitscore	phylum	class	order	family	report_level
+F734	F734|translig_contig:2_length_20425_8315-9934	Host (Onychophora)	NC_015890.1	Oroperipatus sp. DVL-2011	84.413	1559	1720	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F734	F734|translig_contig:13673_length_3200_1-564	Host (Onychophora)	PP054357.1	Epiperipatus acacioi	73.546	533	334	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F734	F734|rnaspades_contig:NODE_8203_length_2722_cov_3.773714_g6451_i0_389-695	Host (Onychophora)	KC754646.1	Peripatus dominicae	82.297	209	204	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F734	F734|rnaspades_contig:NODE_8833_length_2626_cov_4.437722_g6958_i0_2019-2492	Host (Onychophora)	MH107343.1	Epiperipatus trinidadensis	86.234	385	449	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F734	F734|rnaspades_contig:NODE_14020_length_2055_cov_1.540347_g11179_i0_959-1431	Host (Onychophora)	NC_015890.1	Oroperipatus sp. DVL-2011	81.039	385	365	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F734	F734|transabyss_contig:k59J2454000_length_2040_472-1816	Host (Onychophora)	NC_015890.1	Oroperipatus sp. DVL-2011	76.493	1340	985	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F734	F734|translig_contig:6227_length_2012_1-558	Host (Onychophora)	PP054362.1	Epiperipatus acacioi	79.192	495	420	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F734	F734|rnaspades_contig:NODE_26761_length_1361_cov_1.817247_g22160_i0_190-1227	Host (Onychophora)	PP054359.1	Epiperipatus acacioi	77.618	974	780	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F734	F734|translig_contig:15303_length_1235_783-1112	Host (Onychophora)	PP314088.1	Peripatoides sp.	82.996	247	241	Onychophora	Udeonychophora	Euonychophora	Peripatopsidae	NA
+F734	F734|rnaspades_contig:NODE_33178_length_1164_cov_2.208997_g27937_i0_290-1164	Host (Onychophora)	NC_015890.1	Oroperipatus sp. DVL-2011	77.093	908	684	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F734	F734|rnaspades_contig:NODE_37565_length_1060_cov_2.654206_g31986_i0_260-951	Host (Onychophora)	PP054362.1	Epiperipatus acacioi	75.698	609	413	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F734	F734|rnaspades_contig:NODE_45778_length_914_cov_0.771114_g39728_i0_1-226	Host (Onychophora)	PP314075.1	Peripatoides sp.	79.817	218	186	Onychophora	Udeonychophora	Euonychophora	Peripatopsidae	NA
+F734	F734|translig_contig:Graph_3259_0_3_133.68_length_754_170-529	No BLAST hit	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+F734	F734|rnaspades_contig:NODE_114876_length_456_cov_1.476323_g108013_i0_105-456	Host (Onychophora)	KC754637.1	Peripatidae gen. sp. DNA104978	82.979	282	291	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F734	F734|rnaspades_contig:NODE_182364_length_335_cov_1.021008_g175475_i0_1-270	No BLAST hit	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+F734	F734|rnaspades_contig:NODE_195007_length_321_cov_0.683036_g188117_i0_193-321	No BLAST hit	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+F734	F734|rnaspades_contig:NODE_312433_length_251_cov_0.675325_g305540_i0_1-251	Host (Onychophora)	KC754641.1	Epiperipatus sp. DNA104980	83.784	222	231	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F734	F734|transabyss_contig:k39R4375421_length_227_1-227	Host (Onychophora)	PP314091.1	Peripatoides sp.	85.59	229	258	Onychophora	Udeonychophora	Euonychophora	Peripatopsidae	NA
+F734	F734|transabyss_contig:k21R14983483_length_213_1-213	Host (Onychophora)	NC_015890.1	Oroperipatus sp. DVL-2011	82.569	218	223	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F734	F734|transabyss_contig:k99S65929_length_191_1-158	No BLAST hit	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+F734	F734|transabyss_contig:k99R637133_length_188_41-188	Verified prey	NC_040921.1	Triodia sylvina	93.684	95	145	Arthropoda	Insecta	Lepidoptera	Hepialidae	order
+F734	F734|transabyss_contig:k99S177633_length_187_33-187	Host (Onychophora)	MH107369.1	Oroperipatus eisenii	96.154	104	170	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F734	F734|transabyss_contig:k99S243293_length_177_1-147	Host (Onychophora)	PP314091.1	Peripatoides sp.	93.684	95	145	Onychophora	Udeonychophora	Euonychophora	Peripatopsidae	NA
+F734	F734|transabyss_contig:k59S949296_length_150_1-150	Host (Onychophora)	MH107343.1	Epiperipatus trinidadensis	90.541	148	205	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F739	F739|transabyss_contig:k79R655574_length_5951_3489-4271	Host (Onychophora)	PP054362.1	Epiperipatus acacioi	83.602	683	728	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F739	F739|translig_contig:3276_length_3223_2357-3136	Host (Onychophora)	PP054362.1	Epiperipatus acacioi	83.824	680	731	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F739	F739|rnaspades_contig:NODE_9886_length_1838_cov_1.652499_g8356_i0_254-1752	Host (Onychophora)	KC754637.1	Peripatidae gen. sp. DNA104978	80.328	610	547	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F739	F739|translig_contig:Graph_30280_0_3_6.39_length_776_75-547	Host (Onychophora)	NC_015890.1	Oroperipatus sp. DVL-2011	81.039	385	365	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F739	F739|transabyss_contig:k21R6832508_length_717_92-520	No BLAST hit	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+F739	F739|translig_contig:Graph_25297_0_3_4.59_length_278_1-278	Host (Onychophora)	PP054357.1	Epiperipatus acacioi	83.813	278	289	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F739	F739|transabyss_contig:k39S1356320_length_200_1-200	Host (Onychophora)	KC754637.1	Peripatidae gen. sp. DNA104978	83.168	202	207	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F739	F739|transabyss_contig:k99S299504_length_193_34-193	Host (Onychophora)	MH107343.1	Epiperipatus trinidadensis	93	100	150	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F739	F739|transabyss_contig:k99R394780_length_193_54-193	Verified prey	OY720467.1	Harpalus rubripes	88.785	107	140	Arthropoda	Insecta	Coleoptera	Carabidae	order
+F739	F739|transabyss_contig:k99S59055_length_192_43-192	Host (Onychophora)	PP314091.1	Peripatoides sp.	93.878	98	147	Onychophora	Udeonychophora	Euonychophora	Peripatopsidae	NA
+F739	F739|transabyss_contig:k99S247636_length_192_57-192	Host (Onychophora)	NC_015890.1	Oroperipatus sp. DVL-2011	92.857	98	146	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F739	F739|transabyss_contig:k99S342857_length_190_1-144	No BLAST hit	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+F739	F739|transabyss_contig:k99S331279_length_190_46-190	No BLAST hit	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+F739	F739|transabyss_contig:k99S286097_length_190_1-141	No BLAST hit	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+F739	F739|transabyss_contig:k99R394454_length_190_1-144	Host (Onychophora)	PP054362.1	Epiperipatus acacioi	90.909	99	139	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F739	F739|transabyss_contig:k99S319624_length_189_46-189	No BLAST hit	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+F739	F739|transabyss_contig:k99S247348_length_189_41-189	No BLAST hit	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+F739	F739|transabyss_contig:k99R395146_length_189_42-189	No BLAST hit	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+F739	F739|transabyss_contig:k99S5265_length_188_49-188	No BLAST hit	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+F739	F739|transabyss_contig:k99S36319_length_188_1-142	No BLAST hit	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+F739	F739|transabyss_contig:k99S310044_length_188_1-148	Host (Onychophora)	PP054362.1	Epiperipatus acacioi	91.667	96	138	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F739	F739|transabyss_contig:k99S301685_length_188_1-143	No BLAST hit	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+F739	F739|transabyss_contig:k99S101260_length_188_41-188	Host (Onychophora)	PP054362.1	Epiperipatus acacioi	91.837	98	141	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F739	F739|transabyss_contig:k99S342477_length_187_40-187	No BLAST hit	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+F739	F739|transabyss_contig:k99S292137_length_187_1-143	No BLAST hit	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+F739	F739|transabyss_contig:k21R7005293_length_170_1-170	No BLAST hit	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+F739	F739|transabyss_contig:k79S126184_length_152_16-152	No BLAST hit	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+F739	F739|transabyss_contig:k79S92896_length_147_12-147	Host (Onychophora)	PP054362.1	Epiperipatus acacioi	91.011	89	125	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F744	F744|translig_contig:Graph_0_5_33.42_40.12_length_11568_5359-6978	Host (Onychophora)	NC_015890.1	Oroperipatus sp. DVL-2011	84.285	1559	1711	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F744	F744|translig_contig:857_length_4088_3299-3568	Host (Onychophora)	PP054362.1	Epiperipatus acacioi	86.705	173	209	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F744	F744|rnaspades_contig:NODE_7012_length_2906_cov_5.170523_g5114_i1_2446-2906	Host (Onychophora)	PP054362.1	Epiperipatus acacioi	76.73	477	356	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F744	F744|translig_contig:Graph_42445_0_3_5.96_length_1464_192-1316	Host (Onychophora)	NC_015890.1	Oroperipatus sp. DVL-2011	76.855	1132	846	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F744	F744|rnaspades_contig:NODE_29577_length_1226_cov_1.902569_g24228_i0_446-918	Host (Onychophora)	NC_015890.1	Oroperipatus sp. DVL-2011	81.039	385	365	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F744	F744|rnaspades_contig:NODE_46099_length_859_cov_1.566929_g39382_i0_345-859	Host (Onychophora)	PP054362.1	Epiperipatus acacioi	78.632	468	384	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F744	F744|rnaspades_contig:NODE_100566_length_471_cov_1.612299_g93160_i0_234-471	Host (Onychophora)	KC754643.1	Peripatidae gen. sp. DNA104979	85.366	164	178	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F744	F744|rnaspades_contig:NODE_143317_length_370_cov_0.717949_g135876_i0_1-304	Host (Onychophora)	MH107353.1	Epiperipatus sp. MCZ 131429	84.706	255	281	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F744	F744|rnaspades_contig:NODE_155735_length_350_cov_1.047431_g148293_i0_1-350	Host (Onychophora)	PP054362.1	Epiperipatus acacioi	77.966	354	279	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F744	F744|rnaspades_contig:NODE_168026_length_333_cov_1.118644_g160584_i0_1-333	Host (Onychophora)	PP054357.1	Epiperipatus acacioi	81.818	319	309	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F744	F744|rnaspades_contig:NODE_190498_length_308_cov_0.753555_g183052_i0_1-220	Host (Onychophora)	PP054357.1	Epiperipatus acacioi	87.719	171	211	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F744	F744|transabyss_contig:k39S2906687_length_289_1-289	Host (Onychophora)	KC754646.1	Peripatus dominicae	87.197	289	355	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F744	F744|transabyss_contig:k39S3707242_length_192_1-192	Host (Onychophora)	KC754637.1	Peripatidae gen. sp. DNA104978	85.417	192	220	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F744	F744|transabyss_contig:k79S601087_length_166_31-166	No BLAST hit	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+F744	F744|transabyss_contig:k79S674279_length_157_6-157	No BLAST hit	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+F744	F744|transabyss_contig:k59S1974511_length_147_1-147	Host (Onychophora)	KC754637.1	Peripatidae gen. sp. DNA104978	86.111	144	170	Onychophora	Udeonychophora	Euonychophora	Peripatidae	NA
+F744	F744|transabyss_contig:k59S1023201_length_133_1-133	Host (Onychophora)	PP314071.1	Ooperipatellus sp.	88.722	133	173	Onychophora	Udeonychophora	Euonychophora	Peripatopsidae	NA

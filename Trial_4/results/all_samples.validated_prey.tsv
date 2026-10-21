@@ -1,0 +1,70 @@
+sample	seq_id	n_contigs_merged	contig_len	identity	aln_len	tier	phylum	class	order	family	midori_lineage	blast_top_hit	blast_pident	blast_flag	contig_flag
+F734	F734|translig_contig:2_length_20425	25	20425	0.944	90	standard	Arthropoda	Insecta	conflict:Coleoptera/Raphidioptera		Eukaryota;Arthropoda;Insecta;Coleoptera;Carabidae;Harpalus				long contig (>5 kb): check it is not a host nuclear gene
+F734	F734|translig_contig:13673_length_3200	4	3200	0.903	93	standard	Arthropoda	Insecta	Lepidoptera		Eukaryota;Arthropoda;Insecta;Lepidoptera;Noctuidae				
+F734	F734|rnaspades_contig:NODE_8203_length_2722_cov_3.773714_g6451_i0	1	2722	0.9	80	standard	Arthropoda	Insecta	Hymenoptera		Eukaryota;Arthropoda;Insecta;Hymenoptera;Braconidae				
+F734	F734|rnaspades_contig:NODE_8833_length_2626_cov_4.437722_g6958_i0	1	2626	0.925	120	standard	Arthropoda	Insecta	Hymenoptera		Eukaryota;Arthropoda;Insecta;Hymenoptera;Formicidae				
+F734	F734|rnaspades_contig:NODE_14020_length_2055_cov_1.540347_g11179_i0	1	2055	0.901	91	standard	Mollusca	Gastropoda	Cycloneritida		Eukaryota;Mollusca;Gastropoda;Cycloneritida;Helicinidae				
+F734	F734|transabyss_contig:k59J2454000_length_2040	3	2040	0.906	105	standard	Arthropoda	Arachnida	Araneae		Eukaryota;Arthropoda;Arachnida;Araneae;Dictynidae				
+F734	F734|translig_contig:6227_length_2012	1	2012	0.926	81	standard	Arthropoda	Insecta	Lepidoptera		Eukaryota;Arthropoda;Insecta;Lepidoptera;Hesperiidae				
+F734	F734|rnaspades_contig:NODE_26761_length_1361_cov_1.817247_g22160_i0	1	1361	0.92	113	standard	Mollusca	Gastropoda	Littorinimorpha		Eukaryota;Mollusca;Gastropoda;Littorinimorpha;Naticidae				
+F734	F734|translig_contig:15303_length_1235	2	1235	0.912	80	standard	Arthropoda	Insecta	Coleoptera		Eukaryota;Arthropoda;Insecta;Coleoptera;Staphylinidae				
+F734	F734|rnaspades_contig:NODE_33178_length_1164_cov_2.208997_g27937_i0	1	1164	0.912	80	standard	Arthropoda	Insecta	Hymenoptera		Eukaryota;Arthropoda;Insecta;Hymenoptera;Eulophidae				
+F734	F734|rnaspades_contig:NODE_37565_length_1060_cov_2.654206_g31986_i0	2	1060	0.925	80	standard	Arthropoda	Arachnida	Scorpiones		Eukaryota;Arthropoda;Arachnida;Scorpiones;Bothriuridae				
+F734	F734|rnaspades_contig:NODE_45778_length_914_cov_0.771114_g39728_i0	1	914	0.938	80	standard	Arthropoda	Insecta	Hymenoptera		Eukaryota;Arthropoda;Insecta;Hymenoptera;Pteromalidae;Idarnes				
+F734	F734|translig_contig:Graph_3259_0_3_133.68_length_754	1	754	0.91	89	standard	Arthropoda	Insecta	Orthoptera		Eukaryota;Arthropoda;Insecta;Orthoptera;Pamphagidae				
+F734	F734|rnaspades_contig:NODE_114876_length_456_cov_1.476323_g108013_i0	1	456	0.954	87	standard	Mollusca	Gastropoda	Architaenioglossa		Eukaryota;Mollusca;Gastropoda;Architaenioglossa;Viviparidae;Notopala				
+F734	F734|rnaspades_contig:NODE_182364_length_335_cov_1.021008_g175475_i0	1	335	0.988	86	standard	Arthropoda	Insecta	Lepidoptera		Eukaryota;Arthropoda;Insecta;Lepidoptera;Nymphalidae;Lohora;Lohora tanuki				
+F734	F734|rnaspades_contig:NODE_195007_length_321_cov_0.683036_g188117_i0	1	321	0.912	80	standard	Arthropoda	Arachnida	Araneae		Eukaryota;Arthropoda;Arachnida;Araneae;Linyphiidae				
+F734	F734|rnaspades_contig:NODE_312433_length_251_cov_0.675325_g305540_i0	1	251	0.918	97	standard	Arthropoda	Insecta	Coleoptera		Eukaryota;Arthropoda;Insecta;Coleoptera;Carabidae				
+F734	F734|transabyss_contig:k39R4375421_length_227	1	227	0.938	81	standard	Arthropoda	Insecta	Coleoptera		Eukaryota;Arthropoda;Insecta;Coleoptera;Hydraenidae;Hydraena				
+F734	F734|transabyss_contig:k21R14983483_length_213	1	213	0.915	82	standard	Arthropoda	Insecta	Coleoptera		Eukaryota;Arthropoda;Insecta;Coleoptera;Scirtidae				
+F734	F734|transabyss_contig:k99S65929_length_191	1	191	0.954	87	standard	Arthropoda	Arachnida	Sarcoptiformes		Eukaryota;Arthropoda;Arachnida;Sarcoptiformes;Hypoderatidae;Picidectes				
+F734	F734|transabyss_contig:k99R637133_length_188	1	188	0.937	95	standard	Mollusca	Gastropoda	Littorinimorpha		Eukaryota;Mollusca;Gastropoda;Littorinimorpha				
+F734	F734|transabyss_contig:k99S177633_length_187	1	187	0.98	100	standard	Arthropoda	Insecta	Lepidoptera		Eukaryota;Arthropoda;Insecta;Lepidoptera;Sphingidae;Ambulyx;Ambulyx zhejiangensis				
+F734	F734|transabyss_contig:k99S243293_length_177	1	177	0.923	91	standard	Arthropoda	Insecta	Lepidoptera		Eukaryota;Arthropoda;Insecta;Lepidoptera;Lycaenidae				
+F734	F734|transabyss_contig:k59S949296_length_150	1	150	0.905	105	standard	Arthropoda	Insecta	Lepidoptera		Eukaryota;Arthropoda;Insecta;Lepidoptera;Depressariidae				
+F739	F739|transabyss_contig:k79R655574_length_5951	1	5951	0.947	95	standard	Arthropoda	Arachnida	Sarcoptiformes		Eukaryota;Arthropoda;Arachnida;Sarcoptiformes;Hypoderatidae;Picidectes				long contig (>5 kb): check it is not a host nuclear gene
+F739	F739|translig_contig:3276_length_3223	1	3223	0.941	101	standard	Arthropoda	Arachnida	Sarcoptiformes		Eukaryota;Arthropoda;Arachnida;Sarcoptiformes;Hypoderatidae;Picidectes				
+F739	F739|rnaspades_contig:NODE_9886_length_1838_cov_1.652499_g8356_i0	2	1838	0.905	105	standard	Arthropoda	Arachnida	Araneae		Eukaryota;Arthropoda;Arachnida;Araneae;Dictynidae				
+F739	F739|translig_contig:Graph_30280_0_3_6.39_length_776	1	776	0.901	91	standard	Mollusca	Gastropoda	Cycloneritida		Eukaryota;Mollusca;Gastropoda;Cycloneritida;Helicinidae				
+F739	F739|transabyss_contig:k21R6832508_length_717	2	717	0.935	341	standard	Arthropoda	Insecta	Lepidoptera		Eukaryota;Arthropoda;Insecta;Lepidoptera;Noctuidae;Euxoa				
+F739	F739|translig_contig:Graph_25297_0_3_4.59_length_278	1	278	0.975	80	standard	Arthropoda	Insecta	Hymenoptera		Eukaryota;Arthropoda;Insecta;Hymenoptera;Eupelmidae;Anastatus;Anastatus fulloi				
+F739	F739|transabyss_contig:k39S1356320_length_200	1	200	0.932	88	standard	Arthropoda	Insecta	Lepidoptera		Eukaryota;Arthropoda;Insecta;Lepidoptera;Cossidae;Rapdalus				
+F739	F739|transabyss_contig:k99S299504_length_193	1	193	0.919	86	standard	Arthropoda	Insecta	Diptera		Eukaryota;Arthropoda;Insecta;Diptera;Mycetophilidae				
+F739	F739|transabyss_contig:k99R394780_length_193	1	193	0.935	93	standard	Arthropoda	Insecta	Coleoptera		Eukaryota;Arthropoda;Insecta;Coleoptera;Carabidae;Pelmatellus				
+F739	F739|transabyss_contig:k99S59055_length_192	1	192	0.923	91	standard	Arthropoda	Insecta	Lepidoptera		Eukaryota;Arthropoda;Insecta;Lepidoptera;Lycaenidae				
+F739	F739|transabyss_contig:k99S247636_length_192	1	192	0.912	80	standard	Arthropoda	Insecta	Coleoptera		Eukaryota;Arthropoda;Insecta;Coleoptera;Scarabaeidae				
+F739	F739|transabyss_contig:k99S342857_length_190	1	190	0.936	94	standard	Arthropoda	Insecta	Hymenoptera		Eukaryota;Arthropoda;Insecta;Hymenoptera;Braconidae;Trioxys				
+F739	F739|transabyss_contig:k99S331279_length_190	1	190	0.937	95	standard	Arthropoda	Insecta	Hymenoptera		Eukaryota;Arthropoda;Insecta;Hymenoptera;Braconidae;Trioxys				
+F739	F739|transabyss_contig:k99S286097_length_190	1	190	0.95	91	standard	Arthropoda	Insecta	Coleoptera		Eukaryota;Arthropoda;Insecta;Coleoptera				
+F739	F739|transabyss_contig:k99R394454_length_190	1	190	0.95	91	standard	Arthropoda	Insecta	Coleoptera		Eukaryota;Arthropoda;Insecta;Coleoptera				
+F739	F739|transabyss_contig:k99S319624_length_189	1	189	0.936	94	standard	Arthropoda	Insecta	Hymenoptera		Eukaryota;Arthropoda;Insecta;Hymenoptera;Braconidae;Trioxys				
+F739	F739|transabyss_contig:k99S247348_length_189	1	189	0.93	86	standard	Arthropoda	Insecta	Diptera		Eukaryota;Arthropoda;Insecta;Diptera;Chironomidae;Yarrhpelopia				
+F739	F739|transabyss_contig:k99R395146_length_189	1	189	0.922	90	standard	Arthropoda	Insecta	Coleoptera		Eukaryota;Arthropoda;Insecta;Coleoptera;Scarabaeidae				
+F739	F739|transabyss_contig:k99S5265_length_188	1	188	0.95	80	standard	Arthropoda	Insecta	Coleoptera		Eukaryota;Arthropoda;Insecta;Coleoptera;Carabidae;Paratachys				
+F739	F739|transabyss_contig:k99S36319_length_188	1	188	0.95	80	standard	Arthropoda	Insecta	Coleoptera		Eukaryota;Arthropoda;Insecta;Coleoptera;Carabidae;Paratachys				
+F739	F739|transabyss_contig:k99S310044_length_188	1	188	0.935	93	standard	Arthropoda	Arachnida	Araneae		Eukaryota;Arthropoda;Arachnida;Araneae;Pholcidae;Pholcus				
+F739	F739|transabyss_contig:k99S301685_length_188	1	188	0.921	89	standard	Arthropoda	Insecta	Coleoptera		Eukaryota;Arthropoda;Insecta;Coleoptera;Scarabaeidae				
+F739	F739|transabyss_contig:k99S101260_length_188	1	188	0.937	95	standard	Arthropoda	Arachnida	Araneae		Eukaryota;Arthropoda;Arachnida;Araneae;Pholcidae;Pholcus				
+F739	F739|transabyss_contig:k99S342477_length_187	1	187	0.976	83	standard	Arthropoda	Insecta	Hymenoptera		Eukaryota;Arthropoda;Insecta;Hymenoptera;Eulophidae;Pnigalio;Pnigalio agraules				
+F739	F739|transabyss_contig:k99S292137_length_187	1	187	0.921	89	standard	Arthropoda	Insecta	Coleoptera		Eukaryota;Arthropoda;Insecta;Coleoptera;Scarabaeidae				
+F739	F739|transabyss_contig:k21R7005293_length_170	1	170	0.991	110	standard	Arthropoda	Insecta	Lepidoptera		Eukaryota;Arthropoda;Insecta;Lepidoptera;Noctuidae;Bryophila;Bryophila granitalis				
+F739	F739|transabyss_contig:k79S126184_length_152	1	152	0.925	80	standard	Arthropoda	Insecta	Coleoptera		Eukaryota;Arthropoda;Insecta;Coleoptera;Carabidae				
+F739	F739|transabyss_contig:k79S92896_length_147	1	147	0.914	81	standard	Arthropoda	Arachnida	Araneae		Eukaryota;Arthropoda;Arachnida;Araneae;Salticidae				
+F744	F744|translig_contig:Graph_0_5_33.42_40.12_length_11568	2	11568	0.937	95	standard	Arthropoda	Arachnida	conflict:Araneae/Coleoptera		Eukaryota;Arthropoda;Arachnida;Araneae;Pholcidae;Uthina				long contig (>5 kb): check it is not a host nuclear gene
+F744	F744|translig_contig:857_length_4088	2	4088	0.928	83	standard	Arthropoda	Arachnida	Araneae		Eukaryota;Arthropoda;Arachnida;Araneae;Ochyroceratidae				
+F744	F744|rnaspades_contig:NODE_7012_length_2906_cov_5.170523_g5114_i1	2	2906	0.924	92	standard	Arthropoda	Arachnida	conflict:Hymenoptera/Scorpiones		Eukaryota;Arthropoda;Arachnida;Scorpiones;Buthidae				
+F744	F744|translig_contig:Graph_42445_0_3_5.96_length_1464	2	1464	0.905	105	standard	Arthropoda	Arachnida	Araneae		Eukaryota;Arthropoda;Arachnida;Araneae;Dictynidae				
+F744	F744|rnaspades_contig:NODE_29577_length_1226_cov_1.902569_g24228_i0	1	1226	0.901	91	standard	Mollusca	Gastropoda	Cycloneritida		Eukaryota;Mollusca;Gastropoda;Cycloneritida;Helicinidae				
+F744	F744|rnaspades_contig:NODE_46099_length_859_cov_1.566929_g39382_i0	2	859	0.904	104	standard	Arthropoda	Insecta	conflict:Diptera/Orthoptera		Eukaryota;Arthropoda;Insecta;Orthoptera;Pyrgomorphidae				
+F744	F744|rnaspades_contig:NODE_100566_length_471_cov_1.612299_g93160_i0	2	471	0.912	80	standard	Arthropoda	Insecta	Coleoptera		Eukaryota;Arthropoda;Insecta;Coleoptera;Staphylinidae				
+F744	F744|rnaspades_contig:NODE_143317_length_370_cov_0.717949_g135876_i0	1	370	0.906	85	standard	Arthropoda	Arachnida	Sarcoptiformes		Eukaryota;Arthropoda;Arachnida;Sarcoptiformes;Scutoverticidae				
+F744	F744|rnaspades_contig:NODE_155735_length_350_cov_1.047431_g148293_i0	1	350	0.905	84	standard	Arthropoda	Arachnida	Araneae		Eukaryota;Arthropoda;Arachnida;Araneae;Nesticidae				
+F744	F744|rnaspades_contig:NODE_168026_length_333_cov_1.118644_g160584_i0	1	333	0.938	80	standard	Arthropoda	Arachnida	Araneae		Eukaryota;Arthropoda;Arachnida;Araneae;Agelenidae;Papiliocoelotes				
+F744	F744|rnaspades_contig:NODE_190498_length_308_cov_0.753555_g183052_i0	1	308	0.908	87	standard	Arthropoda	Insecta	Coleoptera		Eukaryota;Arthropoda;Insecta;Coleoptera;Dytiscidae				
+F744	F744|transabyss_contig:k39S2906687_length_289	1	289	0.951	81	standard	Arthropoda	Malacostraca	Amphipoda		Eukaryota;Arthropoda;Malacostraca;Amphipoda;Lysianassidae;Lepidepecreum				
+F744	F744|transabyss_contig:k39S3707242_length_192	1	192	0.913	115	standard	Mollusca	Gastropoda	Littorinimorpha		Eukaryota;Mollusca;Gastropoda;Littorinimorpha;Naticidae				
+F744	F744|transabyss_contig:k79S601087_length_166	1	166	0.951	81	standard	Arthropoda	Insecta	Coleoptera		Eukaryota;Arthropoda;Insecta;Coleoptera;Carabidae;Paratachys				
+F744	F744|transabyss_contig:k79S674279_length_157	1	157	0.935	92	standard	Arthropoda	Insecta	Coleoptera		Eukaryota;Arthropoda;Insecta;Coleoptera;Carabidae;Mecodema				
+F744	F744|transabyss_contig:k59S1974511_length_147	1	147	0.916	95	standard	Mollusca	Gastropoda	Architaenioglossa		Eukaryota;Mollusca;Gastropoda;Architaenioglossa;Viviparidae				
+F744	F744|transabyss_contig:k59S1023201_length_133	1	133	0.912	80	standard	Arthropoda	Insecta	Coleoptera		Eukaryota;Arthropoda;Insecta;Coleoptera;Carabidae				

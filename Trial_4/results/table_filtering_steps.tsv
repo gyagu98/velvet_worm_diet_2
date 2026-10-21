@@ -1,0 +1,9 @@
+step	F734	F739	F744
+implausible (marine)	2	7	2
+lab contaminant (vertebrate)	1	3	5
+non-animal (fungus etc.)	7	0	0
+prey	55	30	23
+prey: duplicate contigs merged	31	2	6
+prey: unique sequences	24	28	17
+unresolved (no order)	2	2	3
+unresolved (no phylum)	5	7	3

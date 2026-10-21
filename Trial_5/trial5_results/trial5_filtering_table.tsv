@@ -1,0 +1,9 @@
+sample	verdict	n_sequences
+F734	PREY	1
+F734	host (velvet worm)	19
+F734	no BLAST hit	4
+F739	PREY	1
+F739	host (velvet worm)	13
+F739	no BLAST hit	14
+F744	host (velvet worm)	15
+F744	no BLAST hit	2
