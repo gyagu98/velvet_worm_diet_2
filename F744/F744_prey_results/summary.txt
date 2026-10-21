@@ -1,0 +1,13 @@
+Scanned input sequences: 110,079
+COX1-like candidates: 127
+HOST_LIKE_EXCLUDE: 43
+ONYCHOPHORA_REVIEW_EXCLUDE: 41
+SNAKE_ASSOCIATED_EXCLUDE: 1
+VERTEBRATE_REVIEW_CONTAMINATION: 28
+WEAK_COX1_MATCH: 11
+
+IMPORTANT: Transcriptomic COX1 may derive from contamination, environmental RNA, parasites, or prey.
+Unclassified after initial screen: 3
+Detection != consumption. Species calls require broad, locally relevant references and unique matches.
+Read counts depend on reference competition, library depth, and RNA abundance; not diet quantities.
+No COX1 hit does NOT prove absence of prey.
