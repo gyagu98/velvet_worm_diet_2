@@ -93,6 +93,19 @@ This GitHub repository is intended primarily for **source code and lightweight d
 
 Small reviewed summary tables can be added separately, with relevant sample identifiers and explanatory metadata. Raw reads and full assemblies should ultimately be shared using an appropriate scientific data repository when publication and permissions allow.
 
+## Reproducible first-pass MMseqs2 summaries
+
+A lightweight, standard-library Python utility now summarizes the uploaded F734 MMseqs2 12-column table without storing the large assembly or hit table in Git:
+
+```bash
+python analysis/summarize_mmseqs.py /path/to/mmseqs_hits.tsv \
+  --sample F734 --outdir results/mmseqs
+python -m unittest discover -s analysis/tests -v
+```
+
+The summary outputs retain query-level alignment metrics and count top-hit organism labels. These are sequence-similarity annotations only; the utility does not classify prey or infer consumption. A GitHub Actions workflow runs unit tests for changes in `analysis/`.
+
+
 ## Scientific interpretation
 
 An apparent non-host COX1 match in a midsection transcriptome is **not definitive prey identification**. Alternative explanations include conserved or short alignments, host mitochondrial sequence, incomplete reference databases, contamination, or nucleic acids present in the gut without confirmed consumption. Confidence requires independent validation, robust alignments, appropriate controls, and reproducible read support.

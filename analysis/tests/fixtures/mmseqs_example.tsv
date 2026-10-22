@@ -1,0 +1,3 @@
+query_contig_length_188	target_a_OS=Example_insect_OX=123_GN=COI_PE=3	0.953	93	1	0	94	186	50	80	1.783E-12	64
+query_contig_length_188	target_b_OS=Example_worm_OX=456_GN=COI_PE=3	0.900	120	12	0	1	120	10	129	1e-20	78
+query_contig_length_100	target_c_OS=Another_insect_OX=789	95.0	50	2	0	10	59	100	149	1e-10	40
